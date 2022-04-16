@@ -211,6 +211,10 @@ def playPacMan():
         
     runApp(width=width, height=height)
 
+
+def ghost():
+    return 0
+    
 #################################################
 
 def main():
